@@ -1,0 +1,2 @@
+este ya funciona pero solo para ventana gemini y varios 
+tiene un array para poner varias ventanas
