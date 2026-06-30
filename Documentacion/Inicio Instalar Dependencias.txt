@@ -1,0 +1,14 @@
+1) instalar la librería CustomTkinter
+$ pip install customtkinter
+
+2) instalar la librería keyboard:
+$ pip install keyboard        o  py -m pip install keyboard
+
+Verificar instalación
+pip show keyboard
+
+3) pip install pygetwindow
+
+O todo junto:
+
+py -m pip install customtkinter keyboard pygetwindow

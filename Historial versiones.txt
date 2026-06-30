@@ -1,0 +1,1 @@
+main-v33.py --> se implemento categoriay tag  y se amplio ancho app , y buscar por titulo y tag se agrego boton buscar
